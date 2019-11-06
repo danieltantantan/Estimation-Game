@@ -1,0 +1,1 @@
+java -cp classes estimation/game/GameManager
