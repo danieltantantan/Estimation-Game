@@ -2,8 +2,9 @@ package estimation.card;
 import java.util.*;
 
 /**
- * Specification of the suit values for a standard deck of cards.
+ * This class specifies the suit values for a standard deck of cards.
  */
+
 public final class Suit implements Comparable {
    private String name;
    private String symbol; 
@@ -74,8 +75,8 @@ public final class Suit implements Comparable {
   /** 
    *  Compares the suits.  Used for the purpose of sorting cards in a hand or deck.
    *  @param otherSuitObject the other suit.
-   *  @return < 0 if this suit is lower than the other suit, 0 if the suits
-   *  are the same, or > 0 if this suit is higher than the other suit.
+   *  @return less than 0 if this suit is lower than the other suit, 0 if the suits
+   *  are the same, or more than 0 if this suit is higher than the other suit.
    */   
    public int compareTo( Object otherSuitObject ) {
       Suit otherSuit = (Suit) otherSuitObject;

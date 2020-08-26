@@ -1,1 +1,1 @@
-javac -d classes -cp src;classes/estimation src/estimation/game/GameManager.java
+javac -d classes -cp src;classes/estimation;lib/* src/view/AppMain.java

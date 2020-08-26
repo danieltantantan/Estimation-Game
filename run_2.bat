@@ -1,0 +1,1 @@
+java -cp classes;lib/forms_rt.jar view/AppMain

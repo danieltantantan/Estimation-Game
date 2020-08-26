@@ -1,0 +1,1 @@
+javac -d classes -cp lib/*;src; src/estimation/test/TestRunner.java

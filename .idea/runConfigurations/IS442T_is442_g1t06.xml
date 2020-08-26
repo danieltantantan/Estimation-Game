@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="IS442T-is442-g1t06" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="view.GameMain" />
+    <option name="MAIN_CLASS_NAME" value="view.AppMain" />
     <module name="IS442T-is442-g1t06" />
     <method v="2">
       <option name="Make" enabled="true" />

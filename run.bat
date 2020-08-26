@@ -1,1 +1,1 @@
-java -cp classes estimation/game/GameManager
+java -Dfile.encoding=UTF-8 -cp out/production/IS442T-is442-g1t06;lib/junit-4.12.jar;lib/hamcrest-core-1.3.jar view.AppMain

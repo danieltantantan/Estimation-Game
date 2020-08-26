@@ -1,0 +1,1 @@
+java -cp classes;lib/*;src; estimation/test/TestRunner
